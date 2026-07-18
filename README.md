@@ -22,7 +22,7 @@ For the cleanest setup, arrange your files like this before launching:
 ```text
 T7_GSCC_Tool/
 │
-├── T7Tool.exe           # The main GUI application you run
+├── T7GSCCTool.exe           # The main GUI application you run
 │
 ├── t7compiler/           # Drop the compiler backend in a subfolder
 │   ├── DebugCompiler.exe     # The backend compiler by Serious
