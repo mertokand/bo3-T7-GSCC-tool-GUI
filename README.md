@@ -4,6 +4,19 @@ A modern, streamlined, and drag-and-drop graphical interface for compiling and i
 
 ---
 
+## Screenshots
+
+![Screenshot 1](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image.png?raw=true)
+![Screenshot 2](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image1.png?raw=true)
+![Screenshot 3](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image2.png?raw=true)
+![Screenshot 4](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image3.png?raw=true)
+![Screenshot 5](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image4.png?raw=true)
+![Screenshot 6](https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image5.png?raw=true)
+
+---
+
+---
+
 ##  Features
 
 - **Modern UI**
