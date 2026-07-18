@@ -4,19 +4,6 @@ A modern, streamlined, and drag-and-drop graphical interface for compiling and i
 
 ---
 
-## Screenshots
-
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image.png?raw=true" width="600">
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image1.png?raw=true" width="600">
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image2.png?raw=true" width="600">
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image3.png?raw=true" width="600">
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image4.png?raw=true" width="600">
-<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image5.png?raw=true" width="600">
-
----
-
----
-
 ##  Features
 
 - **Modern UI**
@@ -74,3 +61,16 @@ T7_GSCC_Tool/
 
 - **Created By**: MertOkan
 - **Special Thanks**: Serious For T7 Tool and Scropts for updating it.
+
+- ---
+
+## Screenshots
+
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image.png?raw=true" width="600">
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image1.png?raw=true" width="600">
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image2.png?raw=true" width="600">
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image3.png?raw=true" width="600">
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image4.png?raw=true" width="600">
+<img src="https://github.com/mertokand/bo3-T7-GSCC-tool-GUI/blob/main/ScreenShots/image5.png?raw=true" width="600">
+
+---
